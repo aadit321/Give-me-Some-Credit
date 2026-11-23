@@ -1,0 +1,4 @@
+Risk_Band,Borrowers,Actual_Bad,Average_Score,Average_Default_Probability,Actual_Delinquency_Rate
+Low Risk,10000,100,696.4949,0.013432551277271816,1.0
+Medium Risk,10000,310,633.6423,0.03157756796042949,3.1
+High Risk,10000,1595,518.077,0.1570816097772409,15.950000000000001
